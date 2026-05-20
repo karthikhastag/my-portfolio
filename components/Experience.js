@@ -1,3 +1,5 @@
+'use client';
+
 export default function Experience() {
   return (
     <div className="max-w-6xl mx-auto mt-20 px-6">

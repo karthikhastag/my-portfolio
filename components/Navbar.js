@@ -1,3 +1,5 @@
+'use client';
+
 export default function Navbar() {
   return (
     <div className="flex justify-between p-6 max-w-6xl mx-auto">

@@ -1,3 +1,5 @@
+'use client';
+
 export default function Contact() {
   return (
     <div id="contact" className="text-center mt-20 pb-20">
